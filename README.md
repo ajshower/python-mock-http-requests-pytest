@@ -10,7 +10,7 @@ Install dependencies with pipenv:
 pipenv install
 ```
 
-If you are new to pipenv see [Python Dependency Management with pipenv](https://medium.com/@ryanbrookepayne/python-dependency-management-with-pipenv-e9f11e8f5386).
+See [Python Dependency Management with pipenv](https://medium.com/@ryanbrookepayne/python-dependency-management-with-pipenv-e9f11e8f5386) if you are new to pipenv.
 
 ## Running Tests
 
