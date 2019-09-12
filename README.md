@@ -1,6 +1,6 @@
-# Mocking HTTP Requests With pytest - Code Example
+# Mocking Python HTTP Requests With pytest - Code Example
 
-Code example for [Mocking HTTP Requests With pytest](https://medium.com/@ryanbrookepayne/mocking-http-requests-in-pytest-61977c5ccea6) article.
+Code example for [Mocking Python HTTP Requests With pytest](https://medium.com/@ryanbrookepayne/mocking-http-requests-in-pytest-61977c5ccea6) article.
 
 ## Setting Up
 
